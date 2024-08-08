@@ -1,1 +1,3 @@
-Arquivo readme
+ # Anotações sobre implementação do projeto
+
+ 
