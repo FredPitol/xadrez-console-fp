@@ -10,7 +10,7 @@
             this.posicao = null;
             this.tab = tab;
             this.cor = cor;
-            this.qteMovimentos = 0;
+            this.qteMovimentos = 0; // Starta com 0 movimentos
         }
 
         public void incrementarQteMovimentos() {
